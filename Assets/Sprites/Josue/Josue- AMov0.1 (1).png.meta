@@ -1,0 +1,628 @@
+fileFormatVersion: 2
+guid: c6ff72c11a101224e9a380b9f47539b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5023496180837056022
+    second: Josue- AMov0.1 (1)_0
+  - first:
+      213: -5596875087911922350
+    second: Josue- AMov0.1 (1)_1
+  - first:
+      213: -3981456262262832798
+    second: Josue- AMov0.1 (1)_2
+  - first:
+      213: -74905142103089208
+    second: Josue- AMov0.1 (1)_3
+  - first:
+      213: 7206744694272665264
+    second: Josue- AMov0.1 (1)_4
+  - first:
+      213: 6006379355315024462
+    second: Josue- AMov0.1 (1)_5
+  - first:
+      213: -2540462088479580745
+    second: Josue- AMov0.1 (1)_6
+  - first:
+      213: 8618023315901546864
+    second: Josue- AMov0.1 (1)_7
+  - first:
+      213: -7152626986111575881
+    second: Josue- AMov0.1 (1)_8
+  - first:
+      213: 3905745276197101163
+    second: Josue- AMov0.1 (1)_9
+  - first:
+      213: -8797439710314896452
+    second: Josue- AMov0.1 (1)_10
+  - first:
+      213: 3182581774733227407
+    second: Josue- AMov0.1 (1)_11
+  - first:
+      213: -4788222282780919597
+    second: Josue- AMov0.1 (1)_12
+  - first:
+      213: -1305347047738435624
+    second: Josue- AMov0.1 (1)_13
+  - first:
+      213: -6129796219056101150
+    second: Josue- AMov0.1 (1)_14
+  - first:
+      213: -9108387705496055956
+    second: Josue- AMov0.1 (1)_15
+  - first:
+      213: 2591456345470275103
+    second: Josue- AMov0.1 (1)_16
+  - first:
+      213: -1095424780787095512
+    second: Josue- AMov0.1 (1)_17
+  - first:
+      213: 5186512954787336352
+    second: Josue- AMov0.1 (1)_18
+  - first:
+      213: -1657757327059921441
+    second: Josue- AMov0.1 (1)_19
+  - first:
+      213: -1211039959564207420
+    second: Josue- AMov0.1 (1)_20
+  - first:
+      213: -4824206718213299429
+    second: Josue- AMov0.1 (1)_21
+  - first:
+      213: -5430539407247856521
+    second: Josue- AMov0.1 (1)_22
+  - first:
+      213: 2227773515563385505
+    second: Josue- AMov0.1 (1)_23
+  - first:
+      213: 6287519096871289168
+    second: Josue- AMov0.1 (1)_24
+  - first:
+      213: 3554444330456933319
+    second: Josue- AMov0.1 (1)_25
+  - first:
+      213: -1033060931189679417
+    second: Josue- AMov0.1 (1)_26
+  - first:
+      213: -1917329491817162423
+    second: Josue- AMov0.1 (1)_27
+  - first:
+      213: 5806128134057845189
+    second: Josue- AMov0.1 (1)_28
+  - first:
+      213: 6387661558605524747
+    second: Josue- AMov0.1 (1)_29
+  - first:
+      213: 2555761152854670796
+    second: Josue- AMov0.1 (1)_30
+  - first:
+      213: 3113083065272008940
+    second: Josue- AMov0.1 (1)_31
+  - first:
+      213: -6962913059502365756
+    second: Josue- AMov0.1 (1)_32
+  - first:
+      213: 4971124564101754293
+    second: Josue- AMov0.1 (1)_33
+  - first:
+      213: -4942567057089056795
+    second: Josue- AMov0.1 (1)_34
+  - first:
+      213: 7927794881679512737
+    second: Josue- AMov0.1 (1)_35
+  - first:
+      213: -6082572629618755369
+    second: Josue- AMov0.1 (1)_36
+  - first:
+      213: -8598082621672553094
+    second: Josue- AMov0.1 (1)_37
+  - first:
+      213: 6723701511355993593
+    second: Josue- AMov0.1 (1)_38
+  - first:
+      213: -1943196155511057140
+    second: Josue- AMov0.1 (1)_39
+  - first:
+      213: -69919714398146759
+    second: Josue- AMov0.1 (1)_40
+  - first:
+      213: -2589480031100990613
+    second: Josue- AMov0.1 (1)_41
+  - first:
+      213: -6361393969167830492
+    second: Josue- AMov0.1 (1)_42
+  - first:
+      213: -5722236033189361841
+    second: Josue- AMov0.1 (1)_43
+  - first:
+      213: -5111024622164376425
+    second: Josue- AMov0.1 (1)_44
+  - first:
+      213: -950106806873278427
+    second: Josue- AMov0.1 (1)_45
+  - first:
+      213: 2362109459104354761
+    second: Josue- AMov0.1 (1)_46
+  - first:
+      213: 940864517918394728
+    second: Josue- AMov0.1 (1)_47
+  - first:
+      213: 6560702797315228314
+    second: Josue- AMov0.1 (1)_48
+  - first:
+      213: -1115743452322772650
+    second: Josue- AMov0.1 (1)_49
+  - first:
+      213: -5273290114932741850
+    second: Josue- AMov0.1 (1)_50
+  - first:
+      213: 3541578491202446741
+    second: Josue- AMov0.1 (1)_51
+  - first:
+      213: 7395882467002177420
+    second: Josue- AMov0.1 (1)_52
+  - first:
+      213: -2076425217324229233
+    second: Josue- AMov0.1 (1)_53
+  - first:
+      213: 5039508592091155350
+    second: Josue- AMov0.1 (1)_54
+  - first:
+      213: 1023971791896306407
+    second: Josue- AMov0.1 (1)_55
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Josue- AMov0.1 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2238
+        width: 172
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963201991f4a6c248b8b58304d480b26
+      internalID: -5023496180837056022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josue- AMov0.1 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 2182
+        width: 172
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdcf4dddf0264449a09c09030293377
+      internalID: -5596875087911922350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josue- AMov0.1 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 2014
+        width: 311
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480ecae95bce20f4cb8cfd738183f987
+      internalID: -3981456262262832798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josue- AMov0.1 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1342
+        width: 381
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489e76f5b22059d4298e6eb91a1af4c6
+      internalID: -8797439710314896452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josue- AMov0.1 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1342
+        width: 417
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a278cbf7334973e4b8ddb7d631c2b415
+      internalID: 3182581774733227407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josue- AMov0.1 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1342
+        width: 591
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b75f72598e038b42ac1b7517b81f64a
+      internalID: -1305347047738435624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josue- AMov0.1 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1594
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b73b64e1ec56d499bdd5a4eaa20190
+      internalID: -1095424780787095512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josue- AMov0.1 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1518
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b813ae0daf7107e4297723553358fd82
+      internalID: -1657757327059921441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josue- AMov0.1 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1476
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27809a0aff38a04abbeb23aff67ab0f
+      internalID: -5430539407247856521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josue- AMov0.1 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1440
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a964c7b972eb7142b2b5fd23be6fa0a
+      internalID: -1033060931189679417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josue- AMov0.1 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5f2944a576d4d44b31631f50dfa956
+      internalID: 2555761152854670796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josue- AMov0.1 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 726
+        width: 375
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720dfc006b82b3a4dbb6a429529fff6f
+      internalID: 6723701511355993593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josue- AMov0.1 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 726
+        width: 375
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e71075f147da6b4187c148f5f67ba51
+      internalID: -69919714398146759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josue- AMov0.1 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 726
+        width: 171
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1aba88712435b40961c80187b49afd
+      internalID: -950106806873278427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josue- AMov0.1 (1)_53
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 200
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bad49d8b3c6b7541812fd02035b4d23
+      internalID: -2076425217324229233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josue- AMov0.1 (1)_54
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 395
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce0a60d4c961f64689a77c13212e9ef
+      internalID: 5039508592091155350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Josue- AMov0.1 (1)_55
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 111
+        width: 242
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401c695d66f7c0642b183183d74dad5d
+      internalID: 1023971791896306407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3ddf79be1af00dd459dc915e5bdbb2eb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

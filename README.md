@@ -1,2 +1,2 @@
 # Projeto-PAN
-Este é o repositório do nosso jogo...  PROJETO PAN
+Repositório do Jogo As Desventuras de Gordon: Projeto PAN
