@@ -20,6 +20,7 @@ public class Player : MonoBehaviour {
 	private Transform groundCheck;
 	private bool onGround;
 	private bool isDead = false;
+    private bool defend = false;
 	private bool facingRight = true;
 	private bool jump = false;
 	private AudioSource audioS;
@@ -43,8 +44,10 @@ public class Player : MonoBehaviour {
         
 		anim.SetBool("OnGround", onGround);
 		anim.SetBool("Dead", isDead);
+        anim.SetBool("Defend", defend);
 
-		if(Input.GetButtonDown("Jump") && onGround)
+
+        if (Input.GetButtonDown("Jump") && onGround)
 		{
 			jump = true;
 		}
@@ -53,7 +56,12 @@ public class Player : MonoBehaviour {
 		{
 			anim.SetTrigger("attack");
 		}
-
+        if (Input.GetKeyUp(KeyCode.D))
+        {
+            
+            defend = true;
+            anim.SetTrigger("Defend");
+        }
 	}
 
 	private void FixedUpdate()
@@ -115,7 +123,7 @@ public class Player : MonoBehaviour {
 
 	public void TookDamage(int damage)
 	{
-		if (!isDead)
+		if (!isDead  && defend == false)
 		{
 			currentHealth -= damage;
 			anim.SetTrigger("HitDamage");

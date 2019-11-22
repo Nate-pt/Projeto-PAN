@@ -284,9 +284,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f506cd0bcfa63f4882b56f4bdb2f435, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  healthItem: {fileID: 8300000, guid: 592f6928a88447d42a81627587532961, type: 3}
-  jump: {fileID: 8300000, guid: 3b17264ed6c51c84c813cca64441c446, type: 3}
-  impact: {fileID: 8300000, guid: c08c79082478e14469080c266562c87c, type: 3}
+  healthItem: {fileID: 8300000, guid: 7d037fa9b3ff89148b6ba7ce41c4a60f, type: 3}
+  jump: {fileID: 8300000, guid: d097c2303f0a03743928dc242455e06f, type: 3}
+  impact: {fileID: 8300000, guid: 21ab6e5b190daec44b21bb5502448965, type: 3}
 --- !u!4 &74140791
 Transform:
   m_ObjectHideFlags: 0
@@ -1496,9 +1496,9 @@ MonoBehaviour:
   maxHealth: 10
   playerName: Gordon
   playerImage: {fileID: 21300000, guid: f7565534d76ee884185817f842fa51c3, type: 3}
-  collisionSound: {fileID: 8300000, guid: c08c79082478e14469080c266562c87c, type: 3}
-  jumpSound: {fileID: 8300000, guid: 3b17264ed6c51c84c813cca64441c446, type: 3}
-  healthItem: {fileID: 8300000, guid: 592f6928a88447d42a81627587532961, type: 3}
+  collisionSound: {fileID: 8300000, guid: 21ab6e5b190daec44b21bb5502448965, type: 3}
+  jumpSound: {fileID: 8300000, guid: d097c2303f0a03743928dc242455e06f, type: 3}
+  healthItem: {fileID: 8300000, guid: 7d037fa9b3ff89148b6ba7ce41c4a60f, type: 3}
 --- !u!1 &1050334901
 GameObject:
   m_ObjectHideFlags: 0
