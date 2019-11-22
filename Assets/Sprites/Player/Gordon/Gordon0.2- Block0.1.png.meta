@@ -1,7 +1,10 @@
 fileFormatVersion: 2
 guid: a4771dcb21600f74dadae616267c6887
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5416424425670386433
+    second: Gordon0.2- Block0.1_0
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -84,11 +87,32 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Gordon0.2- Block0.1_0
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 105
+        width: 162
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02717237ca50e64b83b82101f9f94ba
+      internalID: 5416424425670386433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1b53c4ef5ef4ab24285998ff02a9beee
     internalID: 0
     vertices: []
     indices: 

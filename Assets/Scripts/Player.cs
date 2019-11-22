@@ -44,7 +44,7 @@ public class Player : MonoBehaviour {
         
 		anim.SetBool("OnGround", onGround);
 		anim.SetBool("Dead", isDead);
-        anim.SetBool("Defend", defend);
+        anim.SetBool("defend", defend);
 
 
         if (Input.GetButtonDown("Jump") && onGround)
@@ -55,14 +55,18 @@ public class Player : MonoBehaviour {
 		if (Input.GetButtonDown("Attack 1"))
 		{
 			anim.SetTrigger("attack");
+            ZeroSpeed();
 		}
-        if (Input.GetKeyUp(KeyCode.D))
-        {
-            
+        if (Input.GetKeyDown(KeyCode.D) && !isDead)
+        {  
             defend = true;
-            anim.SetTrigger("Defend");
         }
-	}
+        if (Input.GetKeyUp(KeyCode.D) && !isDead)
+        {
+
+            defend = false;
+        }
+    }
 
 	private void FixedUpdate()
 	{
@@ -73,8 +77,10 @@ public class Player : MonoBehaviour {
 
 			if (!onGround)
 				z = 0;
-
-			rb.velocity = new Vector3(h * currentSpeed, rb.velocity.y, z * currentSpeed);
+            if (defend == false) //para o movimento do player enquanto defender
+            {
+                rb.velocity = new Vector3(h * currentSpeed, rb.velocity.y, z * currentSpeed);
+            }
 
 			if (onGround)
 				anim.SetFloat("Speed", Mathf.Abs(rb.velocity.magnitude));
@@ -123,7 +129,7 @@ public class Player : MonoBehaviour {
 
 	public void TookDamage(int damage)
 	{
-		if (!isDead  && defend == false)
+		if (!isDead && !defend)
 		{
 			currentHealth -= damage;
 			anim.SetTrigger("HitDamage");
