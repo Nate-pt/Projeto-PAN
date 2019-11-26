@@ -39,7 +39,7 @@ public class ComboManager : MonoBehaviour
 
     }
 
-   void Resetombo()
+   void ResetCombo()
     {
 
         totalCombo = 0;

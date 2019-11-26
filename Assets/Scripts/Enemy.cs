@@ -13,6 +13,8 @@ public class Enemy : MonoBehaviour
     public float attackRate = 1f;
     public string enemyName;
     public Sprite enemyImage;
+    public GameObject hitspark;
+    public GameObject enemyPosition;
 
     protected int currentHealth;
     private float currentSpeed;
@@ -140,6 +142,7 @@ public class Enemy : MonoBehaviour
             damaged = true;
             currentHealth -= damage;
             anim.SetTrigger("HitDamage");
+            Instantiate(hitspark, enemyPosition.transform.position, Quaternion.identity);
             FindObjectOfType<UIManager>().UpdateEnemyUI(maxHealth, currentHealth, enemyName, enemyImage);
             if (currentHealth <= 0)
             {

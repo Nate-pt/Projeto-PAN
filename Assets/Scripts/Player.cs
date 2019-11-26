@@ -12,8 +12,10 @@ public class Player : MonoBehaviour {
 	public string playerName;
 	public Sprite playerImage;
 	public AudioClip collisionSound, jumpSound, healthItem;
+    public GameObject hitdefend;
 
-	private int currentHealth;
+
+    private int currentHealth;
 	private float currentSpeed;
 	private Rigidbody rb;
 	private Animator anim;
@@ -150,6 +152,10 @@ public class Player : MonoBehaviour {
 				}
 			}
 		}
+        if (!isDead && defend == true)
+                {
+            Instantiate(hitdefend, this.transform.position, Quaternion.identity);
+                }
 	}
 
 	public void PlaySong(AudioClip clip)
